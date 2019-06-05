@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-from tkinter import*
+#!/usr/bin/env python2
+from Tkinter import*
 from PIL import Image, ImageTk
 import socket
 import sys
